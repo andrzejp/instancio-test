@@ -1,0 +1,1 @@
+ExampleObject[aString=OMTTHYHV, aDateTime=2003-04-12T05:36:32.179609726, anInteger=2473, aListOfLongs=[638, 1750]]
